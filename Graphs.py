@@ -1,3 +1,4 @@
+#graph using python
 import matplotlib.pyplot as plt
 x=['Maths','English', 'Science','Nepali','Social','Population']
 y1=[90,87,69,64,34,12]
